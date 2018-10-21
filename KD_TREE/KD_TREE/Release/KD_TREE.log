@@ -1,0 +1,15 @@
+﻿  KD_TREE.cpp
+KD_TREE.cpp(154): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_RenderClear
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_DestroyRenderer
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_Init
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_DestroyWindow
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_Quit
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_Delay
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_PollEvent
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_CreateRenderer
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_RenderPresent
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_CreateWindow
+KD_TREE.obj : error LNK2001: unresolved external symbol _SDL_SetRenderDrawColor
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: unresolved external symbol _WinMain@16
+c:\users\sostenes\documents\visual studio 2015\Projects\KD_TREE\Release\KD_TREE.exe : fatal error LNK1120: 12 unresolved externals

@@ -1,0 +1,6 @@
+﻿  KD_TREE.cpp
+c:\users\sostenes\documents\visual studio 2015\projects\kd_tree\kd_tree\kd_tree.cpp(107): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sostenes\documents\visual studio 2015\projects\kd_tree\kd_tree\kd_tree.cpp(87): warning C4715: 'compareX': not all control paths return a value
+c:\users\sostenes\documents\visual studio 2015\projects\kd_tree\kd_tree\kd_tree.cpp(97): warning C4715: 'compareY': not all control paths return a value
+  KD_TREE.vcxproj -> c:\users\sostenes\documents\visual studio 2015\Projects\KD_TREE\Debug\KD_TREE.exe
+  KD_TREE.vcxproj -> c:\users\sostenes\documents\visual studio 2015\Projects\KD_TREE\Debug\KD_TREE.pdb (Full PDB)

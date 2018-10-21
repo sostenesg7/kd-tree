@@ -1,0 +1,5 @@
+﻿  example1.cpp
+c:\users\sostenes\documents\visual studio 2015\projects\kdtree\example1.cpp(88): warning C4715: 'compareX': not all control paths return a value
+c:\users\sostenes\documents\visual studio 2015\projects\kdtree\example1.cpp(98): warning C4715: 'compareY': not all control paths return a value
+x64\Release\Janela.obj : warning LNK4042: object specified more than once; extras ignored
+  example1_win64.vcxproj -> C:\Users\Sostenes\Documents\Visual Studio 2015\Projects\KdTree\x64\Release\example1_win64.exe
